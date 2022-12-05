@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLifeForm", "GameOfLifeForm\GameOfLifeForm.csproj", "{A193FEF4-701E-4607-8796-7E6E4EF70576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A193FEF4-701E-4607-8796-7E6E4EF70576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A193FEF4-701E-4607-8796-7E6E4EF70576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A193FEF4-701E-4607-8796-7E6E4EF70576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A193FEF4-701E-4607-8796-7E6E4EF70576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {462600F8-E3ED-491B-BE2B-9BD78C434519}
+	EndGlobalSection
+EndGlobal

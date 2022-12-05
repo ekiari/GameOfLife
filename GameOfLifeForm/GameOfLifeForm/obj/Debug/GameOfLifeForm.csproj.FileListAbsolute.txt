@@ -1,0 +1,11 @@
+C:\Users\edhvk\source\repos\GameOfLifeForm\GameOfLifeForm\bin\Debug\GameOfLifeForm.exe.config
+C:\Users\edhvk\source\repos\GameOfLifeForm\GameOfLifeForm\bin\Debug\GameOfLifeForm.exe
+C:\Users\edhvk\source\repos\GameOfLifeForm\GameOfLifeForm\bin\Debug\GameOfLifeForm.pdb
+C:\Users\edhvk\source\repos\GameOfLifeForm\GameOfLifeForm\obj\Debug\GameOfLifeForm.csproj.AssemblyReference.cache
+C:\Users\edhvk\source\repos\GameOfLifeForm\GameOfLifeForm\obj\Debug\GameOfLifeForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\edhvk\source\repos\GameOfLifeForm\GameOfLifeForm\obj\Debug\GameOfLifeForm.Form1.resources
+C:\Users\edhvk\source\repos\GameOfLifeForm\GameOfLifeForm\obj\Debug\GameOfLifeForm.Properties.Resources.resources
+C:\Users\edhvk\source\repos\GameOfLifeForm\GameOfLifeForm\obj\Debug\GameOfLifeForm.csproj.GenerateResource.cache
+C:\Users\edhvk\source\repos\GameOfLifeForm\GameOfLifeForm\obj\Debug\GameOfLifeForm.csproj.CoreCompileInputs.cache
+C:\Users\edhvk\source\repos\GameOfLifeForm\GameOfLifeForm\obj\Debug\GameOfLifeForm.exe
+C:\Users\edhvk\source\repos\GameOfLifeForm\GameOfLifeForm\obj\Debug\GameOfLifeForm.pdb
